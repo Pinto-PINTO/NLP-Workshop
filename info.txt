@@ -1,0 +1,8 @@
+NLP Tutorial Series: https://www.youtube.com/watch?v=R-AG4-qZs1A&list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX
+
+Free Pretrained Models: 
+1) Fasttext (Facebook) - https://fasttext.cc/docs/en/support.html
+2) Tensorflow Hub (Google) : https://tfhub.dev/
+3) GPT3 - https://platform.openai.com/docs/api-reference/introduction
+
+
